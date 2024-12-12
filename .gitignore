@@ -1,0 +1,67 @@
+# Jupyter Notebook specific
+.ipynb_checkpoints/
+*.ipynb~ 
+*.ipynb_*
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg
+*.egg-info/
+dist/
+build/
+
+# TensorFlow specific
+checkpoint
+*.ckpt
+*.h5
+*.pb
+*.pbtxt
+*.tflite
+*.onnx
+
+# TensorFlow log directories
+logs/
+events.out.tfevents.*
+
+# Virtual environment
+.venv/
+.env/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE/editor config files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Cache files
+*.cache
+*.pkl
+*.pickle
+*.pyo
+*.pyc
+
+# Outputs
+outputs/
+*.out
+*.log
+
+# Configuration
+config/
+*.yaml
+*.yml
+
