@@ -5,7 +5,5 @@ This repository contains implementations of popular AI and deep learning models 
 #### Models Implemented
 
 - **ResNet (Residual Networks)**
-- **YOLO (You Only Look Once)**
-- **VGGNet**
 - **Transformers**
-- And more...
+- **N-BEATS**
